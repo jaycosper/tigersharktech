@@ -1,0 +1,8 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "tigersharktech"
+authors = [{name = "Jay Cosper", email = "a@b"}]
+dynamic = ["version", "description"]
