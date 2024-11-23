@@ -1,6 +1,14 @@
 # Arcade
 
-## Titles
+## Modifications
+
+[RGB Modifications](rgb_mods.md)
+
+## Displays
+
+[CRT Monitors](monitors.md)
+
+## Games
 
 [Galaxian](galaxian.md)
 
